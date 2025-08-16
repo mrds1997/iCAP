@@ -1,1 +1,43 @@
-# iCAP
+<h1>iCAP Application</h1>
+<p>
+  <strong>iCAP</strong> is a smart automotive assistant that provides a wide range of vehicle-related services in a single mobile application. 
+  It is designed to help drivers, mechanics, and car owners perform diagnostics, monitor their vehicles, and access various car-related services conveniently.
+</p>
+
+<p><strong>Key Features:</strong></p>
+<ul>
+  <li>Seamless connection with the <strong>RDIP diagnostic device</strong> via Bluetooth</li>
+  <li>ECU diagnostics: read ECU parameters, read and clear fault codes, and reset ECUs</li>
+  <li>Battery testing feature: step-by-step guided process to evaluate vehicle battery health</li>
+  <li><strong>iDO Feature:</strong> enable parameter logging for a defined period to collect and analyze ECU data</li>
+  <li>Remote diagnostics: allow mechanics to diagnose vehicles remotely using MQTT protocol</li>
+  <li>Road condition monitoring across Iran</li>
+  <li>Vehicle-related services: 
+    <ul>
+      <li>Vehicle inquiries</li>
+      <li>Scheduling and tracking periodic maintenance services</li>
+      <li>Car price estimation</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Technical Details:</strong></p>
+<ul>
+  <li><strong>Language:</strong> Java </li>
+  <li><strong>Architecture:</strong> Clean Architecture with MVVM</li>
+  <li><strong>Networking:</strong> Retrofit, RxJava, and MQTT for real-time remote communication</li>
+  <li><strong>Database:</strong> Room for local data persistence</li>
+  <li><strong>Bluetooth:</strong> BLE communication with the RDIP diagnostic device</li>
+  <li><strong>State Management:</strong> LiveData, ViewModel</li>
+</ul>
+
+<p>
+  This project demonstrates my expertise in building advanced Android applications with seamless hardware integration (diagnostic devices), 
+  real-time communication (MQTT), and modern clean architecture for maintainability and scalability.
+</p>
+
+<p>
+  <a href="https://cafebazaar.ir/app/com.r_icap.client" target="_blank">
+    👉 View iCAP on cafe bazaar
+  </a>
+</p>
