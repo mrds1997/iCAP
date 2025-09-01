@@ -8,7 +8,7 @@
 <ul>
   <li>Seamless connection with the <strong>RDIP diagnostic device</strong> via Bluetooth</li>
   <li>ECU diagnostics: read ECU parameters, read and clear fault codes, and reset ECUs</li>
-  <li><strong>iCHECK Feature:</strong> A step-by-step guided process for testing and evaluating vehicle battery health, with future plans to include acceleration and fuel consumption tests.</li>
+  <li><strong>iCheck Feature:</strong> A step-by-step guided process for testing and evaluating vehicle battery health, with future plans to include acceleration and fuel consumption tests.</li>
   <li><strong>iDO Feature:</strong> enable parameter logging for a defined period to collect and analyze ECU data</li>
   <li><strong>iDIAG Feature:</strong>allow mechanics to diagnose vehicles remotely using MQTT protocol</li>
   <li><strong>Roadside Assistance:</strong> When your vehicle breaks down and no nearby mechanic is available, you can submit a request describing the issue. The nearest mobile mechanic will review your request and, once accepted, come to your location to fix your vehicle.</li>
@@ -43,13 +43,16 @@
     👉 View iCAP on cafe bazaar
   </a>
   </p>
+  <p>
+  <a href="https://youtu.be/sW3r8ANmtmw" target="_blank">
+    👉 You can watch a video of a battery test on a car (iCheck Feature)
+  </a>
+</p>
 <p>
   <img src="https://github.com/user-attachments/assets/6f7f3c4b-e179-4e31-9e96-76bbdc727960" width="300"  title="RDIP(Diagnostic Module)"
   alt="RDIP(Diagnostic Module)"/>
   <br/>
   <img src="https://github.com/user-attachments/assets/56d2af6a-c49b-4cf6-af28-9a72fc5e83e3" width="300"/>
   </p>
-<p>
-  <strong>iCHECK</strong> You can watch a video of a battery test on a car.
-</p>
-  <video src="https://github.com/user-attachments/assets/414c1d0b-6be1-40c9-9602-2977eaf562e1" height="80%" width="80%" alt="Ahvaz Man Video"/>
+
+  
