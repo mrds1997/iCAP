@@ -49,3 +49,7 @@
   <br/>
   <img src="https://github.com/user-attachments/assets/56d2af6a-c49b-4cf6-af28-9a72fc5e83e3" width="300"/>
   </p>
+<p>
+  <strong>iCHECK</strong> You can watch a video of a battery test on a car.
+</p>
+  <video src="https://github.com/user-attachments/assets/414c1d0b-6be1-40c9-9602-2977eaf562e1" height="80%" width="80%" alt="Ahvaz Man Video"/>
