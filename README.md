@@ -8,9 +8,9 @@
 <ul>
   <li>Seamless connection with the <strong>RDIP diagnostic device</strong> via Bluetooth</li>
   <li>ECU diagnostics: read ECU parameters, read and clear fault codes, and reset ECUs</li>
-  <li><strong>Icheck Feature:</strong> A step-by-step guided process for testing and evaluating vehicle battery health, with future plans to include acceleration and fuel consumption tests.</li>
-  <li><strong>Ido Feature:</strong> enable parameter logging for a defined period to collect and analyze ECU data</li>
-  <li><strong>Idiag Feature:</strong>allow mechanics to diagnose vehicles remotely using MQTT protocol</li>
+  <li><strong>iCHECK Feature:</strong> A step-by-step guided process for testing and evaluating vehicle battery health, with future plans to include acceleration and fuel consumption tests.</li>
+  <li><strong>iDO Feature:</strong> enable parameter logging for a defined period to collect and analyze ECU data</li>
+  <li><strong>iDIAG Feature:</strong>allow mechanics to diagnose vehicles remotely using MQTT protocol</li>
   <li>Road condition monitoring across Iran</li>
   <li>Vehicle-related services: 
     <ul>
