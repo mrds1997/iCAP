@@ -11,6 +11,8 @@
   <li><strong>iCHECK Feature:</strong> A step-by-step guided process for testing and evaluating vehicle battery health, with future plans to include acceleration and fuel consumption tests.</li>
   <li><strong>iDO Feature:</strong> enable parameter logging for a defined period to collect and analyze ECU data</li>
   <li><strong>iDIAG Feature:</strong>allow mechanics to diagnose vehicles remotely using MQTT protocol</li>
+  <li><strong>Roadside Assistance:</strong> When your vehicle breaks down and no nearby mechanic is available, you can submit a request describing the issue. The nearest mobile mechanic will review your request and, once accepted, come to your location to fix your vehicle.</li>
+  <li><strong>Garage Appointment Booking:</strong> Save time and avoid long waits by booking an appointment at your preferred repair shop in advance.</li>
   <li>Road condition monitoring across Iran</li>
   <li>Vehicle-related services: 
     <ul>
