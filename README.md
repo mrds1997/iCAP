@@ -44,6 +44,8 @@
   </a>
   </p>
 <p>
-  <img src="https://github.com/user-attachments/assets/6f7f3c4b-e179-4e31-9e96-76bbdc727960" width="200"  title="RDIP(Diagnostic Module)"
+  <img src="https://github.com/user-attachments/assets/6f7f3c4b-e179-4e31-9e96-76bbdc727960" width="300"  title="RDIP(Diagnostic Module)"
   alt="RDIP(Diagnostic Module)"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/56d2af6a-c49b-4cf6-af28-9a72fc5e83e3" width="300"/>
   </p>
