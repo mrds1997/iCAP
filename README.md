@@ -42,4 +42,8 @@
   <a href="https://cafebazaar.ir/app/com.r_icap.client" target="_blank">
     👉 View iCAP on cafe bazaar
   </a>
-</p>
+  </p>
+<p>
+  <img src="https://github.com/user-attachments/assets/6f7f3c4b-e179-4e31-9e96-76bbdc727960" width="200"  title="RDIP(Diagnostic Module)"
+  alt="RDIP(Diagnostic Module)"/>
+  </p>
